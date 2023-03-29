@@ -1,0 +1,19 @@
+Asegúrate de tener instalado Node.js en tu sistema.
+
+Crear directorio dentro de la carpeta www de Wamp
+
+Dentro de directorio en consola
+npm init -y
+
+crear fichero index.js
+
+Instalar las dependencias necesarias
+
+npm install express mysql cors
+
+completar index.js
+para poner en marcha node index.js
+
+http://localhost:3000/api/personas
+
+http://localhost:3000/api/personas/<id>
